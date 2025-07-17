@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Dr Simon Aseno, MPH
 
 I'm a data scientist based in North Carolina, United States, with a passion for uncovering stories within data using R. I specialize in data analysis, visualization, and building predictive models and interactive data apps using Shiny! 
