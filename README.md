@@ -21,8 +21,8 @@ Here are some of the tools and technologies I work with:
 
 Here are a few projects I'm proud of. You can find more in my repositories!
 
-* **[Project 1 Name - e.g., NBA Shot Chart Analysis]**: A brief, one-sentence description of the project and its outcome. [Link to Repository]
-* **[Project 2 Name - e.g., Interactive Sales Dashboard]**: A brief, one-sentence description of the project and its outcome. [Link to Repository or Live App]
+* **[Project 1 Name - e.g., NBA Shot Chart Analysis]**: [Link to Repository]
+* **[Project 2 Name - e.g., Interactive Sales Dashboard]**:  [Link to Repository or Live App]
 
 ---
 
