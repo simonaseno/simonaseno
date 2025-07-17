@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**simonaseno/simonaseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Dr Simon Aseno, MPH
 
-Here are some ideas to get you started:
+I'm a data scientist based in North Carolina, United States, with a passion for uncovering stories within data using R. I specialize in data analysis, visualization, and building predictive models and interactive data apps using Shiny! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+
+Here are some of the tools and technologies I work with:
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-1A1A1A?style=for-the-badge&logo=Tidyverse&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-1A1A1A?style=for-the-badge&logo=Shiny&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-1A1A1A?style=for-the-badge&logo=Quarto&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
+
+---
+
+### 🔭 My Projects
+
+Here are a few projects I'm proud of. You can find more in my repositories!
+
+* **[Project 1 Name - e.g., NBA Shot Chart Analysis]**: A brief, one-sentence description of the project and its outcome. [Link to Repository]
+* **[Project 2 Name - e.g., Interactive Sales Dashboard]**: A brief, one-sentence description of the project and its outcome. [Link to Repository or Live App]
+
+---
+
+### 📫 How to Reach Me
+
+* **LinkedIn:** 
+* **Email:** sbaseno@gmail.com
