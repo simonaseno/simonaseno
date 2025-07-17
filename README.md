@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Dr Simon Aseno, MPH
+# Hi, I'm Dr Simon Aseno, MPH
 
 I'm a Data Scientist based in North Carolina, United States, with a passion for uncovering stories within data using R. I specialize in data analysis, visualization, and building predictive models and interactive data apps using Shiny! Aside Data Science, I have a strong background in public health, medical laboratory science and diagnostics.
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 Here are some of the tools and technologies I work with:
 
@@ -17,7 +17,7 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-### 🔭 My Projects
+### My Projects
 
 Here are a few projects I'm proud of. You can find more in my repositories!
 
@@ -26,7 +26,7 @@ Here are a few projects I'm proud of. You can find more in my repositories!
 
 ---
 
-### 📫 How to Reach Me
+### How to Reach Me
 
 * **LinkedIn:** 
 * **Email:** sbaseno@gmail.com
