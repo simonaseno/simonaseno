@@ -4,7 +4,7 @@
 
 I design, build, and guide the delivery of software and data products that turn complex institutional and research workflows into usable applications. My work spans applied AI, software solution architecture, cloud-backed web applications, data engineering, and automation, informed by my background in clinical laboratory science, public health, global health, and data analysis. That intersection helps me design technology around real clinical, laboratory, research, and institutional needs.
 
-I use **AI-assisted development and structured engineering workflows** to move from requirements and prototypes to tested, deployed systems. My contributions span architecture, implementation oversight, integrations, validation, and release management; the tools and frameworks below describe technologies used across these projects, not a claim of equal hands-on proficiency in every language.
+I leverage modern software engineering practices, AI-powered development tools, and structured workflows to design, build, validate, and deploy scalable software solutions. My contributions span architecture, implementation oversight, integrations, validation, and release management; the tools and frameworks below describe technologies used across these projects, not a claim of equal hands-on proficiency in every language.
 
 ## Areas of focus
 
