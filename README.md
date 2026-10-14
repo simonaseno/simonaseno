@@ -47,6 +47,10 @@ A modern institutional website with structured content, forms, communication int
 ### [NHANES multi-cycle downloader and merger](https://github.com/simonaseno/nhanes) — Reproducible analysis in R
 A documented R pipeline for downloading, labeling, and merging NHANES Complete Blood Count and Demographics datasets (1999–2018). Uses R and Quarto to produce analysis-ready outputs and reproducible documentation.
 
+## Private development portfolio
+
+Alongside my public work, I manage **over 30 private GitHub repositories** spanning software development, AI-enabled workflows, data systems, and cross-sector digital solutions. As these repositories are private, they are not fully visible on my public profile.
+
 ## How I work
 
 I favor clearly scoped requirements, Git-based changes, reviewable implementation, test/validation gates, documented technical decisions, and controlled production releases. AI coding tools accelerate the workflow; they do not replace verification, review, or accountability for the delivered system.
