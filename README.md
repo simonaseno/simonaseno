@@ -1,4 +1,4 @@
-# Simon Aseno, MPH
+# Simon Aseno
 ### Software & AI Solutions Engineer
 **Software Engineering · Applied AI · Health Informatics · Laboratory Systems · Global Health Data**
 
