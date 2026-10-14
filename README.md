@@ -1,8 +1,8 @@
 # Simon Aseno, MPH
 ### Software & AI Solutions Engineer
-**Full-Stack Applications · AI-Assisted Engineering · Cloud Platforms · Research Data Systems**
+**Software Engineering · Applied AI · Health Informatics · Laboratory Systems · Global Health Data**
 
-I design, build, and guide the delivery of software and data products that turn complex institutional and research workflows into usable applications. My work spans applied AI, software solution architecture, cloud-backed web applications, data engineering, and automation, with a foundation in public health, medical laboratory science, and data analysis.
+I design, build, and guide the delivery of software and data products that turn complex institutional and research workflows into usable applications. My work spans applied AI, software solution architecture, cloud-backed web applications, data engineering, and automation, informed by my background in medical laboratory science, public health, global health, and data analysis. That intersection helps me design technology around real clinical, laboratory, research, and institutional needs.
 
 I use **AI-assisted development and structured engineering workflows** to move from requirements and prototypes to tested, deployed systems. My contributions span architecture, implementation oversight, integrations, validation, and release management; the tools and frameworks below describe technologies used across these projects, not a claim of equal hands-on proficiency in every language.
 
@@ -13,6 +13,11 @@ I use **AI-assisted development and structured engineering workflows** to move f
 - **Cloud & backend:** Git/GitHub, CI/CD, Vercel, Cloudflare, PostgreSQL/Supabase, authentication, and webhooks
 - **Research data engineering:** ingestion, metadata harmonization, data quality, provenance, reproducibility, and analytics
 - **Data science:** R, tidyverse, Shiny, Quarto, SQL, public-health datasets, and reproducible analysis
+- **Health & laboratory informatics:** clinical and laboratory workflows, health-data quality, research-data systems, and global-health applications
+
+## Domain expertise
+
+My training and experience in **medical laboratory science and public health (MPH)** complement my software work. I bring subject-matter context to laboratory operations and quality systems, clinical competency workflows, population-health research, and global-health data challenges. I am particularly interested in building reliable, usable digital tools for healthcare delivery, laboratory informatics, and public-health research.
 
 ## Technologies across my projects
 
@@ -31,7 +36,7 @@ I use **AI-assisted development and structured engineering workflows** to move f
 A platform for exploring public-health datasets and supporting data harmonization, structured metadata, reproducibility, and research-package delivery. Work includes planning and guiding automated data workflows, validation, platform integrations, and cloud deployment.
 
 ### [Sybatel Technologies](https://sybatel.com) — Software products and institutional systems
-Software initiatives spanning education, healthcare, and enterprise operations, including **Tande** (assessment and integrity workflows), **CoLIntel Plus** (education administration), and **Complyr Lab** (laboratory-focused software). My focus includes product requirements, solution architecture, AI-assisted engineering, application integrations, and delivery oversight.
+Software initiatives spanning education, healthcare, and enterprise operations, including **Tande** (assessment and integrity workflows), **CoLIntel Plus** (education administration), and **Complyr Lab** (laboratory quality and compliance-focused software). My focus includes product requirements, solution architecture, AI-assisted engineering, application integrations, and delivery oversight.
 
 ### Clinical competency and visitor management systems
 Application prototypes covering multi-role approval processes, competency evidence, access controls, QR-enabled verification, and auditable workflows.
