@@ -1,43 +1,54 @@
+# Simon Aseno, MPH
+### Software & AI Solutions Engineer
+**Full-Stack Applications · AI-Assisted Engineering · Cloud Platforms · Research Data Systems**
 
-# Hi, I'm Dr. Simon Aseno, MPH
+I design, build, and guide the delivery of software and data products that turn complex institutional and research workflows into usable applications. My work spans applied AI, software solution architecture, cloud-backed web applications, data engineering, and automation, with a foundation in public health, medical laboratory science, and data analysis.
 
-I'm a Data Scientist based in North Carolina, United States, with a passion for uncovering stories within data using **R**. I specialize in data analysis, visualization, and building predictive models and interactive data apps with **Shiny**. Beyond data science, I bring a strong background in **public health**, **medical laboratory science**, and **diagnostics**.
+I use **AI-assisted development and structured engineering workflows** to move from requirements and prototypes to tested, deployed systems. My contributions span architecture, implementation oversight, integrations, validation, and release management; the tools and frameworks below describe technologies used across these projects, not a claim of equal hands-on proficiency in every language.
 
----
+## Areas of focus
 
-### My Tech Stack
+- **Software & product engineering:** application architecture, requirements translation, API integrations, multi-role workflows, and production delivery
+- **Applied AI:** coding-agent workflows, prompt/context engineering, AI-assisted development, automation, and human review
+- **Cloud & backend:** Git/GitHub, CI/CD, Vercel, Cloudflare, PostgreSQL/Supabase, authentication, and webhooks
+- **Research data engineering:** ingestion, metadata harmonization, data quality, provenance, reproducibility, and analytics
+- **Data science:** R, tidyverse, Shiny, Quarto, SQL, public-health datasets, and reproducible analysis
 
-Here are some of the tools and technologies I work with:
+## Technologies across my projects
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/Tidyverse-1A1A1A?style=for-the-badge\&logo=Tidyverse\&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-1A1A1A?style=for-the-badge\&logo=Shiny\&logoColor=white)
-![Quarto](https://img.shields.io/badge/Quarto-1A1A1A?style=for-the-badge\&logo=Quarto\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=sql\&logoColor=white)
+| Area | Technologies and practices |
+| --- | --- |
+| Applications | TypeScript, JavaScript, Next.js, React, Astro, HTML/CSS |
+| Data & analysis | R, tidyverse, Shiny, Quarto, SQL, Python-based workflows |
+| Backend & integrations | PostgreSQL, Supabase, REST APIs, authentication, role-based access, webhooks |
+| Cloud & delivery | Git, GitHub, GitHub Actions, Vercel, Cloudflare Pages/Workers, CI/CD |
+| Applied AI & engineering | AI coding agents, prompt/context engineering, iterative validation, architecture and implementation review |
+| Business services | Stripe integrations, Resend transactional email, form and payment workflows |
 
----
+## Selected work
 
-### Featured Project: NHANES Multi-Cycle Data Downloader and Merger
+### [Praxis Data Lab](https://praxisdatalab.com) — Public-health research data platform
+A platform for exploring public-health datasets and supporting data harmonization, structured metadata, reproducibility, and research-package delivery. Work includes planning and guiding automated data workflows, validation, platform integrations, and cloud deployment.
 
-**GitHub Repo**: [github.com/simonaseno/nhanes](https://github.com/simonaseno/nhanes)
+### [Sybatel Technologies](https://sybatel.com) — Software products and institutional systems
+Software initiatives spanning education, healthcare, and enterprise operations, including **Tande** (assessment and integrity workflows), **CoLIntel Plus** (education administration), and **Complyr Lab** (laboratory-focused software). My focus includes product requirements, solution architecture, AI-assisted engineering, application integrations, and delivery oversight.
 
-An automated, reproducible pipeline written in R for downloading, labeling, and merging Complete Blood Count (CBC) and Demographics (DEMO) datasets from NHANES (1999–2018). The project is documented with Quarto and outputs clean CSV and RDS files ready for modeling and analysis.
+### Clinical competency and visitor management systems
+Application prototypes covering multi-role approval processes, competency evidence, access controls, QR-enabled verification, and auditable workflows.
 
-**Project technologies used include:**
+### [Praxis Global Institute](https://praxisglobal.ac) — Institutional web platform
+A modern institutional website with structured content, forms, communication integrations, and cloud deployment workflows.
 
-* R for data processing, merging, and saving
-* Quarto for literate programming and automated documentation
-* RPubs-ready HTML export for public presentation
-* Git & GitHub for version control and deployment
+### [NHANES multi-cycle downloader and merger](https://github.com/simonaseno/nhanes) — Reproducible analysis in R
+A documented R pipeline for downloading, labeling, and merging NHANES Complete Blood Count and Demographics datasets (1999–2018). Uses R and Quarto to produce analysis-ready outputs and reproducible documentation.
 
----
+## How I work
 
-### How to Reach Me
+I favor clearly scoped requirements, Git-based changes, reviewable implementation, test/validation gates, documented technical decisions, and controlled production releases. AI coding tools accelerate the workflow; they do not replace verification, review, or accountability for the delivered system.
 
-* **Email**: [sbaseno@gmail.com](mailto:sbaseno@gmail.com)
+## Connect
 
----
-
-
-
+- **GitHub:** [github.com/simonaseno](https://github.com/simonaseno)
+- **Software:** [sybatel.com](https://sybatel.com)
+- **Research data:** [praxisdatalab.com](https://praxisdatalab.com)
+- **Email:** [sbaseno@gmail.com](mailto:sbaseno@gmail.com)
