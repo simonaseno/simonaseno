@@ -17,7 +17,7 @@ I leverage modern software engineering practices, AI-powered development tools, 
 
 ## Domain expertise
 
-My training and experience in **clinical laboratory science and public health** complement my software work. I bring subject-matter context to laboratory operations and quality systems, clinical competency workflows, population-health research, and global-health data challenges. I build and guide the development of reliable, usable digital solutions across sectors, including healthcare, laboratory informatics, public-health research, education, institutional administration, government services, and enterprise operations. My domain background informs this work without limiting its scope.
+My training and experience in clinical laboratory science and public health complement my software work. I bring subject-matter context to laboratory operations and quality systems, clinical competency workflows, population-health research, and global-health data challenges. I build and guide the development of reliable, usable digital solutions across sectors, including healthcare, laboratory informatics, public-health research, education, institutional administration, government services, and enterprise operations. My domain background informs this work without limiting its scope.
 
 ## Technologies across my projects
 
