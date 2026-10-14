@@ -2,7 +2,7 @@
 ### Software & AI Solutions Engineer
 **Software Engineering · Applied AI · Health Informatics · Laboratory Systems · Global Health Data**
 
-I design, build, and guide the delivery of software and data products that turn complex institutional and research workflows into usable applications. My work spans applied AI, software solution architecture, cloud-backed web applications, data engineering, and automation, informed by my background in medical laboratory science, public health, global health, and data analysis. That intersection helps me design technology around real clinical, laboratory, research, and institutional needs.
+I design, build, and guide the delivery of software and data products that turn complex institutional and research workflows into usable applications. My work spans applied AI, software solution architecture, cloud-backed web applications, data engineering, and automation, informed by my background in clinical laboratory science, public health, global health, and data analysis. That intersection helps me design technology around real clinical, laboratory, research, and institutional needs.
 
 I use **AI-assisted development and structured engineering workflows** to move from requirements and prototypes to tested, deployed systems. My contributions span architecture, implementation oversight, integrations, validation, and release management; the tools and frameworks below describe technologies used across these projects, not a claim of equal hands-on proficiency in every language.
 
@@ -17,7 +17,7 @@ I use **AI-assisted development and structured engineering workflows** to move f
 
 ## Domain expertise
 
-My training and experience in **medical laboratory science and public health (MPH)** complement my software work. I bring subject-matter context to laboratory operations and quality systems, clinical competency workflows, population-health research, and global-health data challenges. I build and guide the development of reliable, usable digital solutions across sectors, including healthcare, laboratory informatics, public-health research, education, institutional administration, government services, and enterprise operations. My domain background informs this work without limiting its scope.
+My training and experience in **clinical laboratory science and public health (MPH)** complement my software work. I bring subject-matter context to laboratory operations and quality systems, clinical competency workflows, population-health research, and global-health data challenges. I build and guide the development of reliable, usable digital solutions across sectors, including healthcare, laboratory informatics, public-health research, education, institutional administration, government services, and enterprise operations. My domain background informs this work without limiting its scope.
 
 ## Technologies across my projects
 
